@@ -1,0 +1,15 @@
+C:\nicosandovalr-Projects\APISocialMedia\ProgramacionFuncional\bin\Debug\net6.0\ProgramacionFuncional.exe
+C:\nicosandovalr-Projects\APISocialMedia\ProgramacionFuncional\bin\Debug\net6.0\ProgramacionFuncional.deps.json
+C:\nicosandovalr-Projects\APISocialMedia\ProgramacionFuncional\bin\Debug\net6.0\ProgramacionFuncional.runtimeconfig.json
+C:\nicosandovalr-Projects\APISocialMedia\ProgramacionFuncional\bin\Debug\net6.0\ProgramacionFuncional.dll
+C:\nicosandovalr-Projects\APISocialMedia\ProgramacionFuncional\bin\Debug\net6.0\ProgramacionFuncional.pdb
+C:\nicosandovalr-Projects\APISocialMedia\ProgramacionFuncional\obj\Debug\net6.0\ProgramacionFuncional.csproj.AssemblyReference.cache
+C:\nicosandovalr-Projects\APISocialMedia\ProgramacionFuncional\obj\Debug\net6.0\ProgramacionFuncional.GeneratedMSBuildEditorConfig.editorconfig
+C:\nicosandovalr-Projects\APISocialMedia\ProgramacionFuncional\obj\Debug\net6.0\ProgramacionFuncional.AssemblyInfoInputs.cache
+C:\nicosandovalr-Projects\APISocialMedia\ProgramacionFuncional\obj\Debug\net6.0\ProgramacionFuncional.AssemblyInfo.cs
+C:\nicosandovalr-Projects\APISocialMedia\ProgramacionFuncional\obj\Debug\net6.0\ProgramacionFuncional.csproj.CoreCompileInputs.cache
+C:\nicosandovalr-Projects\APISocialMedia\ProgramacionFuncional\obj\Debug\net6.0\ProgramacionFuncional.dll
+C:\nicosandovalr-Projects\APISocialMedia\ProgramacionFuncional\obj\Debug\net6.0\refint\ProgramacionFuncional.dll
+C:\nicosandovalr-Projects\APISocialMedia\ProgramacionFuncional\obj\Debug\net6.0\ProgramacionFuncional.pdb
+C:\nicosandovalr-Projects\APISocialMedia\ProgramacionFuncional\obj\Debug\net6.0\ProgramacionFuncional.genruntimeconfig.cache
+C:\nicosandovalr-Projects\APISocialMedia\ProgramacionFuncional\obj\Debug\net6.0\ref\ProgramacionFuncional.dll

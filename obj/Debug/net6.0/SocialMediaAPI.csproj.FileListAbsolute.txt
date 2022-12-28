@@ -1,0 +1,7 @@
+C:\nicosandovalr-Projects\APISocialMedia\obj\Debug\net6.0\SocialMediaAPI.csproj.AssemblyReference.cache
+C:\nicosandovalr-Projects\APISocialMedia\obj\Debug\net6.0\SocialMediaAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\nicosandovalr-Projects\APISocialMedia\obj\Debug\net6.0\SocialMediaAPI.AssemblyInfoInputs.cache
+C:\nicosandovalr-Projects\APISocialMedia\obj\Debug\net6.0\SocialMediaAPI.AssemblyInfo.cs
+C:\nicosandovalr-Projects\APISocialMedia\obj\Debug\net6.0\SocialMediaAPI.csproj.CoreCompileInputs.cache
+C:\nicosandovalr-Projects\APISocialMedia\obj\Debug\net6.0\SocialMediaAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\nicosandovalr-Projects\APISocialMedia\obj\Debug\net6.0\SocialMediaAPI.MvcApplicationPartsAssemblyInfo.cache
